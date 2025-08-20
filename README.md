@@ -14,9 +14,11 @@ Otherwise, you can still add your wallet address on app.cg. **The final snapshot
 
 **The distribution of tokens is scheduled to start 2025-09-01, 12:00pm UTC.**
 
-Token distribution will happen through the [cg-airdrop-plugin](https://github.com/Common-Ground-DAO/cg-airdrop-plugin). The plugin can be used by any community and allows admins to create Airdrops from CSV files, and set up Token Vestings. It supports every ERC20 or LSP7 token on all 16 EVM chains that are currently supported by app.cg.
+The token distribution will take place in the [Common Ground Community](https://app.cg/c/commonground/), where we will embed our own [cg-airdrop-plugin](https://github.com/Common-Ground-DAO/cg-airdrop-plugin). It will be used to set up a claimable airdrop for all community sale investors and airdrop-rewarded users. We will publish an FAQ on how to claim your tokens there, too.
 
-## What now?
+**Make sure to only claim your tokens in the [official Common Ground Community on app.cg](https://app.cg/c/commonground/) - we'll provide further info there.**
+
+## And what now?
 
 Starting with the token distribution, the Common Ground Community will offer exclusive roles for $CG holders, which will grant access to special chats, events and information. There, we will plan the next steps in decentralizing our governance together with you, our early believers and community contributors.
 
