@@ -1,7 +1,38 @@
 ### Common Ground Public Data Repository
 
-This repository contains public data for verification and transparency.
+This repository contains public data for community verification and transparency.
 
-First data available here is for the initial airdrop 001, which will distribute community sale and platform reward tokens.
+## Our first airdrop data has been added! 🎉
 
-For details, check [the info](airdrops/001/info.md).
+The first data available in this repository is for the initial airdrop (0001), which will distribute tokens from our first community sale, and also tokens granted as platform rewards for activity, airdrops, contributions and more.
+
+**The first [snapshot for verification](airdrops/0001/2025_08_20/airdrop_data.md) is available (2025-08-20)**
+
+**Important:** If you already entered your wallet data on the [app.cg Token page](https://app.cg/token/), **please check** that your wallet and token amount are correct in this snapshot file.
+
+Otherwise, you can still add your wallet address on app.cg. **The final snapshot will be taken 2025-08-28, 12:00pm UTC.** For those who miss this date, don't worry, there will be another airdrop for you soon.
+
+**The distribution of tokens is scheduled to start 2025-09-01, 12:00pm UTC.**
+
+Token distribution will happen through the [cg-airdrop-plugin](https://github.com/Common-Ground-DAO/cg-airdrop-plugin), which will also be available for all communities. It allows community admins to create Airdrops from CSV files and set up and manage Vestings. Currently, it supports ERC20 and LSP7, and all 16 EVM blockchains that are currently supported by app.cg.
+
+## What now?
+
+Starting with the token distribution, the Common Ground Community will offer exclusive roles for $CG holders, which will grant access to special chats, events and information. There, we will plan the next steps in decentralizing our governance together with you, our early believers and community contributors.
+
+Also, there's much more going on right now:
+
+- app.cg now supports community plugins: use dApps and play games, right in your community!
+- We're planning to open source all app.cg code within this year
+- Another small, exclusive community sale is coming, to fund infrastructure and development - stay tuned!
+- $CG tokens will start to generate Spark soon - gather with other holders and unlock premium features for free!
+- We'll start to offer grants and bounties for builders: Integrate dApps or games as an app.cg plugin. If you want, other communities can even use it, too!
+
+That's just the short version, make sure to join the discussion in the [Common Ground Community](https://app.cg/c/commonground/) - all alpha is available there first.
+
+#### Updates
+
+**Update 2025_08_20**
+
+- First snapshot for community verification added
+- Initial README added
