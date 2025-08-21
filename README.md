@@ -20,9 +20,9 @@ The token distribution will take place in the [Common Ground Community](https://
 
 ### LUKSO and Universal Profiles
 
-We realized that a lot of users have put their UP address as the token target address. Since Common Ground started as an EVM project, our token contract is on Mainnet. Please update your address to a mainnet compatible wallet address. The beneficiary wallet must be able to call contract functions itself and on Mainnet for claiming the $CG tokens.
+We realized that a lot of users have put their UP address as the wallet address for receiving the tokens. Since Common Ground started as an EVM project, our $CG token contract is on Ethereum Mainnet, and $CG is not yet available on the Lukso blockchain. We assume that bridging $CG to Lukso will be possible in the future.
 
-Please check [the list of affected Universal Profile addresses](airdrops/0001/universal_profile_addresses.md) and update your claim address accordingly.
+Check [the list of affected Universal Profile addresses](airdrops/0001/universal_profile_addresses.md). If your UP address is in that list, **update your wallet address to an Ethereum Mainnet compatible wallet** on the [Token Page](https://app.cg/token/).
 
 ### Hats community Airdrop
 
