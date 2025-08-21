@@ -16,7 +16,13 @@ Otherwise, you can still add your wallet address on app.cg. **The final snapshot
 
 The token distribution will take place in the [Common Ground Community](https://app.cg/c/commonground/), where we will embed our own [cg-airdrop-plugin](https://github.com/Common-Ground-DAO/cg-airdrop-plugin). It will be used to set up a claimable airdrop for all community sale investors and airdrop-rewarded users. We will publish an FAQ on how to claim your tokens there, too.
 
-**Make sure to only claim your tokens in the [official Common Ground Community on app.cg](https://app.cg/c/commonground/) - we'll provide further info there.**
+**Make sure to only claim your tokens in the [official Common Ground Community on app.cg](https://app.cg/c/commonground/) - we'll provide further instructions there.**
+
+### LUKSO and Universal Profiles
+
+We realized that a lot of users have put their UP address as the token target address. Since Common Ground started as an EVM project, our token contract is on Mainnet. Please update your address to a mainnet compatible wallet address. The beneficiary wallet must be able to call contract functions itself and on Mainnet for claiming the $CG tokens.
+
+Please check [the list of affected Universal Profile addresses](airdrops/0001/universal_profile_addresses.md) and update your claim address accordingly.
 
 ## And what now?
 
