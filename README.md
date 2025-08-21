@@ -24,6 +24,10 @@ We realized that a lot of users have put their UP address as the token target ad
 
 Please check [the list of affected Universal Profile addresses](airdrops/0001/universal_profile_addresses.md) and update your claim address accordingly.
 
+### Hats community Airdrop
+
+We found irregularities in the Hats community airdrop, as someone claimed all the remaining (free) public role NFTs (>300). As a result, we flagged this airdrop for now, and the published token amounts (2025-08-20) do not include these tokens. We know that some of the 334 claiming users are real (at least 11), and we're working on a solution for them.
+
 ## And what now?
 
 Starting with the token distribution, the Common Ground Community will offer exclusive roles for $CG holders, which will grant access to special chats, events and information. There, we will plan the next steps in decentralizing our governance together with you, our early believers and community contributors.
