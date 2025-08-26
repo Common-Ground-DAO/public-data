@@ -8,7 +8,7 @@ The first data available in this repository is for the initial airdrop (0001), w
 
 **The first [snapshot for data verification](airdrops/0001/2025_08_20/airdrop_data.md) is available (2025-08-20)**
 
-**Important:** If you already entered your wallet data on the [app.cg Token page](https://app.cg/token/), **please check** that your wallet and token amount are correct in this snapshot file.
+**Important:** If you already entered your wallet data on the [app.cg Token page](https://app.cg/token), **please check** that your wallet and token amount are correct in this snapshot file.
 
 Otherwise, you can still add your wallet address on app.cg. **The final snapshot will be taken 2025-08-28, 12:00pm UTC.** For those who miss this date, don't worry, there will be another airdrop for you soon.
 
@@ -22,7 +22,7 @@ The token distribution will take place in the [Common Ground Community](https://
 
 We realized that a lot of users have put their UP address as the wallet address for receiving the tokens. Since Common Ground started as an EVM project, our $CG token contract is on Ethereum Mainnet, and $CG is not yet available on the Lukso blockchain. We assume that bridging $CG to Lukso will be possible in the future.
 
-Check [the list of affected Universal Profile addresses](airdrops/0001/universal_profile_addresses.md). If your UP address is in that list, **update your wallet address to an Ethereum Mainnet compatible wallet** on the [Token Page](https://app.cg/token/).
+Check [the list of affected Universal Profile addresses](airdrops/0001/universal_profile_addresses.md). If your UP address is in that list, **update your wallet address to an Ethereum Mainnet compatible wallet** on the [Token Page](https://app.cg/token).
 
 ### Hats community Airdrop
 
