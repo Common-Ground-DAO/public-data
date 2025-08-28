@@ -2,6 +2,10 @@
 
 This repository contains public data for community verification and transparency.
 
+## Update 2025-08-28: Final snapshot
+
+The **FINAL** [snapshot for token distribution](airdrops/0001/2025_08_28_1200_utc/airdrop_data.md) has been taken today at 12:00 UTC. Please verify your data!
+
 ## Our first airdrop data has been added! 🎉
 
 The first data available in this repository is for the initial airdrop (0001), which will distribute tokens from our first community sale, and also tokens granted as platform rewards for activity, airdrops, contributions and more.
